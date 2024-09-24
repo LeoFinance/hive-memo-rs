@@ -1,11 +1,11 @@
 [package]
 name = "hive_memo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A crate for encrypting and decrypting Hive Blockchain memos using elliptic curve cryptography and AES."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/leofinance/hive_memo_rs"
-homepage = "https://github.com/leofinance/hive_memo_rs#readme"
+repository = "https://github.com/LeoFinance/hive-memo-rs"
+homepage = "https://github.com/LeoFinance/hive-memo-rs#readme"
 documentation = "https://docs.rs/hive_memo_rs"
 keywords = ["encryption", "hive", "hive-blockchain", "memo", "aes"]
 categories = ["cryptography::cryptocurrencies", "cryptography"]
